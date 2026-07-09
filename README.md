@@ -154,7 +154,11 @@ git push origin main
 
 ---
 
+<<<<<<< HEAD
 ## Mento
+=======
+## Mentors
+>>>>>>> upstream/main
 - Abhinav V  
 - Shaik Suraj
 - Boda Prabanjan Jadav
